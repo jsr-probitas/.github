@@ -2,7 +2,7 @@
 
 [![check](https://github.com/vim-denops/.github/actions/workflows/check.yml/badge.svg)](https://github.com/vim-denops/.github/actions/workflows/check.yml)
 
-vim-denops community health files
+jsr-probitas community health files
 
 ## License
 
